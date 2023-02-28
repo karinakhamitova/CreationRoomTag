@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationRoomTag", "CreationRoomTag\CreationRoomTag.csproj", "{1663DA59-3855-423C-8DB6-66EA0FCB5643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1663DA59-3855-423C-8DB6-66EA0FCB5643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1663DA59-3855-423C-8DB6-66EA0FCB5643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1663DA59-3855-423C-8DB6-66EA0FCB5643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1663DA59-3855-423C-8DB6-66EA0FCB5643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C4C502-D1CF-4373-BE9A-7493757EF02B}
+	EndGlobalSection
+EndGlobal
